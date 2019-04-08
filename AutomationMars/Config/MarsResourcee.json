@@ -1,0 +1,9 @@
+{
+  "Urls": {
+    "Browser": "2",
+    "IsLogin": "true",
+    "ExcelPath": "C:\\Users\\admin\\Source\\Repos\\AutomationMars\\AutomationMars\\ExcelData\\TestData.xlsx",
+    "Screenshot": "C:\\Users\\admin\\Source\\Repos\\AutomationMars\\AutomationMars\\Screenshots\\"
+  }
+
+}

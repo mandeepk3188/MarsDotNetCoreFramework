@@ -1,0 +1,17 @@
+C:\Users\admin\Source\Repos\AutomationMars\AutomationMars\bin\Debug\netcoreapp2.1\AutomationMars.deps.json
+C:\Users\admin\Source\Repos\AutomationMars\AutomationMars\bin\Debug\netcoreapp2.1\AutomationMars.dll
+C:\Users\admin\Source\Repos\AutomationMars\AutomationMars\obj\Debug\netcoreapp2.1\AutomationMars.csprojAssemblyReference.cache
+C:\Users\admin\Source\Repos\AutomationMars\AutomationMars\obj\Debug\netcoreapp2.1\AutomationMars.csproj.CoreCompileInputs.cache
+C:\Users\admin\Source\Repos\AutomationMars\AutomationMars\obj\Debug\netcoreapp2.1\AutomationMars.AssemblyInfoInputs.cache
+C:\Users\admin\Source\Repos\AutomationMars\AutomationMars\obj\Debug\netcoreapp2.1\AutomationMars.AssemblyInfo.cs
+C:\Users\admin\Source\Repos\AutomationMars\AutomationMars\bin\Debug\netcoreapp2.1\AutomationMars.pdb
+C:\Users\admin\Source\Repos\AutomationMars\AutomationMars\obj\Debug\netcoreapp2.1\AutomationMars.dll
+C:\Users\admin\Source\Repos\AutomationMars\AutomationMars\obj\Debug\netcoreapp2.1\AutomationMars.pdb
+C:\Users\admin\Source\Repos\AutomationMars\AutomationMars\bin\Debug\netcoreapp2.1\AutomationMars.runtimeconfig.json
+C:\Users\admin\Source\Repos\AutomationMars\AutomationMars\bin\Debug\netcoreapp2.1\AutomationMars.runtimeconfig.dev.json
+C:\Users\admin\Source\Repos\AutomationMars\AutomationMars\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+C:\Users\admin\Source\Repos\AutomationMars\AutomationMars\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.pdb
+C:\Users\admin\Source\Repos\AutomationMars\AutomationMars\bin\Debug\netcoreapp2.1\nunit.engine.netstandard.dll
+C:\Users\admin\Source\Repos\AutomationMars\AutomationMars\bin\Debug\netcoreapp2.1\Interop.AutoItX3Lib.dll
+C:\Users\admin\Source\Repos\AutomationMars\AutomationMars\obj\Debug\netcoreapp2.1\Interop.AutoItX3Lib.dll
+C:\Users\admin\Source\Repos\AutomationMars\AutomationMars\obj\Debug\netcoreapp2.1\AutomationMars.csproj.ResolveComReference.cache
